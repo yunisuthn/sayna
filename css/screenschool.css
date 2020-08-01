@@ -1,0 +1,427 @@
+@media screen and (max-width: 330px) {
+    
+  .fdh {
+      position: relative;
+      margin-top: 10% !important;
+      left: 0.3%;
+      margin-right: 0.1%;
+      
+  }
+  .formons-des-heros {
+    position: relative;
+   
+    font-size: 4em;
+    line-height: 104px;
+   
+  }
+
+  .des-heros {
+      position: relative;
+     
+      font-size: 5.3em;
+      line-height: 95.02%;
+      /* display: flex; */
+      
+  }
+  .girl-fly {
+      margin-top: 2% !important;
+      float: right;
+      /*top: -34%;*/
+      left: 0%;
+  }
+    .hate-de-nous-rencontrer {
+    position: relative;
+ font-size: 1.4em !important;
+    
+  }
+    .component-3 {
+    position: relative;
+    width: 82%;
+    height: 78px;
+   
+}
+    .je-m-inscris {
+   position: relative;
+    top: 10%;
+   
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.1em;
+    line-height: 30px;
+    /* display: inline; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E9EAEF;
+}
+    .structure {
+    position: relative;
+    width: 70%;
+    
+    margin-top: 39% !important;
+    left: 8%;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-size: 0.78em;
+    line-height: 156.02%;
+    color: #000000;
+}
+    .jeminscris {
+    position: relative;
+    width: 67%;
+   
+}
+    
+.jem {
+    position: relative;
+   
+   left: 4%;
+ 
+}
+    
+.di-rect1 {
+  position: relative;
+  width: 100px;
+  margin-right: 3%;
+    height: 332px;
+    background: #F7F7F9;
+    border-radius: 20px;
+   
+    
+}
+.sitread {
+    position: absolute;
+    width: 86%;
+    height: 405px;
+    top: -8%;
+}
+    .apres-avoir {
+    position: relative;
+    width: 100%;
+    height: 116px;
+    margin-top: 40%;
+}
+    .speci-groupe2 {
+    left: 2%;
+    height: 400px;
+    margin-right: 2%;
+}
+
+    .S-part-five {
+    position: relative;
+    margin-top: 30%;
+    width: 100%;
+    background: transparent;
+ 
+}
+    .speci-grp3 {
+    position: relative;
+     margin-left: 6% !important;
+     margin-right: 4% !important;
+     right: 4%;
+}
+    .atteins-l-excellence {
+   position: relative;
+    width: 98%;
+    float: right;
+    margin-bottom: 12%;
+    /* left: 763px; */
+    top: 6%;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1.8em;
+    line-height: 119.52%;
+    text-align: right;
+    letter-spacing: 0.01em;
+
+}
+      .component-7 {
+    position: relative;
+   float: right;
+    width: 40%;
+    height: 58px;
+    
+}
+      .rectangle-15a {
+    
+    position: relative;
+    width: 100%;
+    height: 48px;
+    background: #FFCC00 !important;
+    border-radius: 20px !important;
+}
+    .groupe-41 {
+      position: relative;
+      left: 10%;
+    }
+}
+
+@media screen and (max-width: 410px) {
+    
+  .fdh {
+      position: relative;
+      margin-top: 10% !important;
+      left: 0.3%;
+      margin-right: 0.1%;
+      
+  }
+  .formons-des-heros {
+    position: relative;
+   
+    font-size: 4em;
+    line-height: 104px;
+   
+  }
+
+  .des-heros {
+      position: relative;
+     
+      font-size: 5.3em;
+      line-height: 95.02%;
+      /* display: flex; */
+      
+  }
+  .girl-fly {
+      margin-top: 2% !important;
+      float: right;
+      /*top: -34%;*/
+      left: 0%;
+  }
+    .hate-de-nous-rencontrer {
+    position: relative;
+ font-size: 1.4em !important;
+    
+  }
+    .component-3 {
+    position: relative;
+    width: 82%;
+    height: 78px;
+   
+}
+    .je-m-inscris {
+   position: relative;
+    top: 10%;
+   
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.1em;
+    line-height: 30px;
+    /* display: inline; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E9EAEF;
+}
+    .structure {
+    position: relative;
+    width: 70%;
+    
+    margin-top: 39% !important;
+    left: 8%;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-size: 0.78em;
+    line-height: 156.02%;
+    color: #000000;
+}
+    .jeminscris {
+    position: relative;
+    width: 67%;
+   
+}
+    
+.jem {
+    position: relative;
+   
+   left: 4%;
+ 
+}
+    
+.di-rect1 {
+  position: relative;
+  width: 100px;
+  margin-right: 3%;
+    height: 332px;
+    background: #F7F7F9;
+    border-radius: 20px;
+   
+    
+}
+.sitread {
+    position: absolute;
+    width: 86%;
+    height: 405px;
+    top: -8%;
+}
+    .apres-avoir {
+    position: relative;
+    width: 100%;
+    height: 116px;
+    margin-top: 30%;
+}
+    .speci-groupe2 {
+    left: 2%;
+    height: 400px;
+    margin-right: 2%;
+}
+
+    .S-part-five {
+    position: relative;
+    margin-top: 30%;
+    width: 100%;
+    background: transparent;
+ 
+}
+    .speci-grp3 {
+    position: relative;
+     margin-left: 6% !important;
+     margin-right: 4% !important;
+     right: 4%;
+}
+    .atteins-l-excellence {
+   position: relative;
+    width: 98%;
+    float: right;
+    margin-bottom: 12%;
+    /* left: 763px; */
+    top: 6%;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1.8em;
+    line-height: 119.52%;
+    text-align: right;
+    letter-spacing: 0.01em;
+
+}
+      .component-7 {
+    position: relative;
+   float: right;
+    width: 40%;
+    height: 58px;
+    
+}
+      .rectangle-15a {
+    
+    position: relative;
+    width: 100%;
+    height: 48px;
+    background: #FFCC00 !important;
+    border-radius: 20px !important;
+}
+    .groupe-41 {
+      position: relative;
+      left: 7%;
+    }
+}
+
+@media screen and (max-width: 1030px) {
+	    .etape-1, .etape-2, .etape-3, .etape-4, .etape-5, .etape-6 {
+    position: absolute;
+    font-size: 1.1em;
+   }
+   .choisis-parcours, .remplis-mon-formulaire, .passe-mon-test, .bloque-un-creneau, .entame-les-demarches, .demarre-la-formation {
+    position: absolute;
+    
+    font-size: 0.8em;
+    line-height: 20px;
+    
+}
+}
+
+@media screen and (max-width: 767px) {
+ header {
+
+    background: url("../image/Forme 1 (1) 1.png") ; 
+background-position: left top ;
+  background-repeat: no-repeat;
+  background-size: 60% 12%;
+  margin-left: 0%;
+  margin-top: 0%;
+  
+}
+}
+@media screen and (max-width: 646px) {
+ header {
+
+    background: url("../image/Forme 1 (1) 1.png") ; 
+background-position: left top ;
+  background-repeat: no-repeat;
+  background-size: 55% 10%;
+  margin-left: 0%;
+  margin-top: 0%;
+  
+}
+.logo1-school {
+   position: absolute;
+   margin-top: 5%;
+   margin-left: 8%;
+    width: 35%;
+    height: 70.38px;
+    
+}
+  .structure {
+    position: relative;
+    width: 70%;
+    
+    margin-top: 49% !important;
+    left: 8%;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-size: 0.78em;
+    line-height: 156.02%;
+    color: #000000;
+}
+}
+
+@media screen and (max-width: 725px) {
+	    .etape-1, .etape-2, .etape-3, .etape-4, .etape-5, .etape-6 {
+    position: absolute;
+    font-size: 1.05em;
+   }
+   .choisis-parcours, .remplis-mon-formulaire, .je-m-inscris, .passe-mon-test, .bloque-un-creneau, .entame-les-demarches, .demarre-la-formation {
+    position: absolute;
+    
+    font-size: 0.65em;
+    line-height: 16px;
+    
+}
+	.structure {
+    position: relative;
+    width: 70%;
+    
+    margin-top: 7%;
+
+}
+
+@media screen and (max-width: 375px) {
+	    .etape-1, .etape-2, .etape-3, .etape-4, .etape-5, .etape-6 {
+    position: absolute;
+    font-size: 0.91em;
+   }
+   .choisis-parcours, .remplis-mon-formulaire, .je-m-inscris, .passe-mon-test, .bloque-un-creneau, .entame-les-demarches, .demarre-la-formation {
+    position: absolute;
+    
+    font-size: 0.55em;
+    line-height: 14px;
+    
+}
+.ellipse-5 {
+	display: none !important;
+}
+.hate-de-nous-rencontrer {
+    position: relative;
+   
+    
+    /* top: 1169px; */
+    
+    font-size: 1.8em;
+    
+}
+
+}
+
+

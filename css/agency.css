@@ -1,0 +1,2342 @@
+@import url('https://rsms.me/inter/inter.css');
+@import url("https://db.onlinewebfonts.com/c/62e84f8271d32eb452129a0b7d59540d?family=Antipasto+Pro");
+@import url("https://db.onlinewebfonts.com/c/9d942e0ff1014c476713a855710ce309?family=Lato");
+[class*="col"] {
+    margin-bottom: 25px;
+}
+
+body {
+    background: #e9eaef;
+}
+
+#textes {
+    display: none;
+}
+
+.fond {
+    background: rgba(0, 0, 0, 0.26);
+}
+
+.bout {
+    width: 140px;
+    height: 53px;
+}
+
+.changer {
+    display: none;
+}
+
+li button {
+    width: 114px;
+    height: 39px;
+}
+
+.btn-slid:hover {
+    background-color: white !important;
+    color: #FB5875 !important;
+}
+
+#hard-skills {
+    background: #F2F2F7;
+    border-radius: 20px;
+    width: 355px !important;
+    height: 285px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#agilePM {
+    background: #F2F2F7;
+    border-radius: 20px;
+    width: 355px !important;
+    height: 285px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#soft-skills {
+    background: #F2F2F7;
+    border-radius: 20px;
+    width: 355px !important;
+    height: 285px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#langue {
+    background: #F2F2F7;
+    border-radius: 20px;
+    width: 355px !important;
+    height: 285px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#hard-skills {
+    background: #F2F2F7;
+    border-radius: 20px;
+    width: 355px !important;
+    height: 285px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#engagement {
+    background: #F2F2F7;
+    border-radius: 20px;
+    width: 355px !important;
+    height: 285px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.rectangle-1949 {
+    width: 340px;
+    height: 13px;
+    background: #FFCC00;
+    transform: rotate(-180deg);
+}
+
+.rectangle-1949-1 {
+    width: 360px;
+    margin-left: -5%;
+    height: 13px;
+    background: #FFCC00;
+    transform: rotate(-180deg);
+}
+
+.navbar-nav {
+    flex-direction: row;
+}
+
+.nav-link {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important;
+}
+
+.new-logo-1 {
+    width: 220px;
+    height: 71px;
+    margin-left: 17px;
+    /* right: 82.13% !important; */
+    margin-top: 46px;
+}
+
+.fleche-long {
+    color: #FB5875;
+    font-size: 30px !important;
+    margin-top: 11%;
+}
+
+.fleche-long-1 {
+    color: #FB5875;
+    font-size: 30px !important;
+    margin-top: 17%;
+}
+
+.fleche-long-2 {
+    color: #FB5875;
+    font-size: 30px !important;
+    margin-top: 23%;
+}
+
+.fleche-long-3 {
+    color: #FB5875;
+    font-size: 30px !important;
+    margin-top: 3%;
+    margin-left: 88px;
+    position: absolute;
+}
+
+
+/* 
+.fleche-long-4{
+  color: #FB5875;
+    font-size: 30px !important;
+    margin-top: 21%;
+    margin-left: 120px;
+    position: absolute;
+} */
+
+.icon-grp-service {
+    width: 50%;
+    text-align: center;
+    left: 25%;
+    position: relative;
+    margin-bottom: 12%;
+}
+
+.icon-grp-service-2 {
+    width: 50%;
+    text-align: center;
+    left: 25%;
+    position: relative;
+    margin-top: 5%;
+    padding-bottom: 12%;
+}
+
+.icon-grp-service-3 {
+    width: 50%;
+    text-align: center;
+    left: 25%;
+    position: relative;
+    margin-top: 5%;
+}
+
+.developpeur-front-end {
+    line-height: 19px;
+}
+
+.bloc-designer {
+    padding-bottom: 36px !important;
+}
+
+.stroke-1 {
+    width: 16%;
+    position: relative;
+}
+
+.stroke-2 {
+    width: 5%;
+    left: -3%;
+    position: relative;
+}
+
+.fleche-offres,
+.fleche-quest,
+.fleche-rdv {
+    margin-left: 13px;
+}
+
+.txt-btn {
+    width: 117.3px;
+    height: 46.92px;
+}
+
+.forme-4-a {
+    position: absolute;
+    width: 335px;
+    color: #FFCC00;
+}
+
+.nous-placons-1 {
+    position: absolute;
+    left: 6.04%;
+    right: 0.36%;
+    top: 305px;
+    bottom: 91.86%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 89px;
+    line-height: 144px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.des-heros-2 {
+    position: absolute;
+    left: 5.5%;
+    right: 0.36%;
+    top: 409px;
+    bottom: 91.86%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 123px;
+    line-height: 144px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.heros {
+    color: #FFCC00;
+}
+
+.meilleurs-talents-africains {
+    position: absolute;
+    /* width: 1289px; */
+    /* height: 51px; */
+    left: 90px;
+    top: 507px;
+    font-family: Antipasto Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 43px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #6E6E6E;
+}
+
+.globe-312668-2 {
+    position: absolute;
+    margin-left: 58%;
+    width: 24%;
+    margin-top: 4%;
+}
+
+.placons-1259A {
+    display: block;
+}
+
+.placons-1259 {
+    display: none !important;
+}
+
+.couleur-jaune {
+    background: #FFCC00;
+}
+
+.couleur-jaune-opacity {
+    background: rgba(255, 204, 0, 0.57);
+}
+
+
+/* pourquoi l’agency ? */
+
+.pourquoi-l-agency {
+    margin-top: 45%;
+    margin-left: 6.3%;
+}
+
+
+/* Rectangle 161 */
+
+.rectangle-161a {
+    /* width: 10%;  */
+    width: 125px;
+    height: 48px !important;
+    margin-left: 6%;
+    /* margin-top: %; */
+    background: #FB5875 !important;
+    border-radius: 100px !important;
+    border-color: #FB5875 !important;
+}
+
+
+/* nos talents */
+
+.nos-talents {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 83% !important;
+    line-height: 150.02%;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+/* Grâce à vous, un étudiant pourra rembourser sa formation et devenir indépendant financièrement. La Flexibilité est un élément clé : SAYNA s’adapte à vos demandes, pour une journée de travail ou pour une semaine jusqu’à 2 ans, nous vous mettons à disposition les talents que nous avons formés. La formation c’est bien, mais trouver un travail c’est mieux ! C’est pour cette raison que nous accompagnons tous nos talents sur la durée dans leur insertion professionnelle. */
+
+.grace-a-vous {
+    /* position: absolute; */
+    /* height: 240px; */
+    margin-left: 13%;
+    margin-top: 1%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.11px;
+    line-height: 156.02%;
+    text-align: justify;
+    color: #000000;
+}
+
+.sous-titre-9-rose {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.56px;
+    line-height: 29px;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    color: #FB5875;
+}
+
+
+/* Sayna place les meilleurs talents digitaux Africains pour répondre à vos besoins. */
+
+.sayna-place-les-meilleurs {
+    margin-left: 5%;
+    margin-top: 2%;
+    width: 58%;
+}
+
+.sous-titre-9-noir {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 31px;
+    line-height: 121%;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+
+/* transparence */
+
+.transparence {
+    margin-right: 5%;
+    float: right;
+    text-align: right
+}
+
+.la-transparence {
+    width: 47%;
+}
+
+.loin-des-modeles {
+    width: 44%;
+}
+
+
+/* Rectangle 15 */
+
+.rectangle-15c {
+    width: 167px;
+    height: 39px;
+    margin-top: 2%;
+    margin-right: 5%;
+    background: #FFCC00 !important;
+    border-radius: 20px !important;
+    border-color: #FFCC00 !important;
+    font-family: Antipasto Pro;
+    padding-right: 2px;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 83% !important;
+    line-height: 18px !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000 !important;
+    letter-spacing: 0.025em;
+}
+
+.transp {
+    margin-top: 6%;
+}
+
+.metiers-enseignes {
+    margin-top: 16%;
+    margin-left: 12%;
+}
+
+
+/* Les types de profils que l’on retrouve chez nous. */
+
+.types-de-profils {
+    margin-left: 12%;
+    /* width: 66% */
+    ;
+}
+
+.unboxingDoodle {
+    width: 100%;
+}
+
+
+/* Après avoir appris les fondamentaux du web, tu peux aller plus loin et te spécialiser dans un des métiers du digital qui connait le plus de pénurie sur le marché international : développeur, data engineer, marketing digitale et vente... */
+
+.apres-avoir-appris-les-fondamentaux {
+    margin-left: 10%;
+    margin-right: 7%;
+}
+
+.bloc-data-engineer {
+    padding-bottom: 0px !important;
+}
+
+
+/* Rectangle */
+
+.rectangle {
+    background: #F7F7F9;
+    border-radius: 20px;
+    margin-top: 13px;
+    width: 68%;
+    height: 100%;
+}
+
+.service-1-1a {
+    margin-left: 44%;
+}
+
+.service-1-3a {
+    margin-left: -34px;
+}
+
+.service-1-2a,
+.service-1-3a {
+    /* height: 86% !important; */
+}
+
+.icon-ruby {
+    top: 9% !important;
+}
+
+.service-3-derniers {
+    height: 95%;
+}
+
+
+/* développeur web Ruby On Rails */
+
+.developpeur {
+    padding-top: 10.58%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 109%;
+    line-height: 146%;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FB5875;
+}
+
+.apprends-a-aller-chercher {
+    margin-top: 24% !important;
+}
+
+.icon-data-eng {
+    margin-top: 92px;
+}
+
+.icon-grp-service-1 {
+    width: 50%;
+    text-align: center;
+    left: 25%;
+    position: relative;
+    top: 4%;
+    padding-bottom: 12%;
+}
+
+.developpeur-front-end {
+    line-height: 18px;
+}
+
+
+/* Deviens un développeur Web Full Stack avec Ruby On Rails : la technologie de Airbnb, Twitter et d’autres géants de la tech. */
+
+.deviens-un-developpeur-web {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.8px;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    color: #898989;
+    margin-top: 18%;
+}
+
+.ensemble-developpeur {
+    margin-top: 17%;
+}
+
+.deviens-un-expert-du-Front {
+    margin-top: 12%;
+    width: 81%;
+}
+
+
+/* Rectangle 161 */
+
+.rectangle-161b {
+    width: 133px;
+    height: 39px !important;
+    background: #FB5875 !important;
+    border-radius: 100px !important;
+    border-color: #FB5875 !important;
+}
+
+.couleur-rose {
+    background: #FB5875;
+    color: #E9EAEF;
+}
+
+.rectangle-1942a {
+    margin-top: 3% !important;
+}
+
+
+/* Rectangle 1942 */
+
+.rectangle-1942 {
+    padding-bottom: 16px;
+    /* width: 54%;
+  height: 38%; */
+    margin-top: 7%;
+    background: #FFCC00;
+    border-radius: 0px 30px 30px 0px;
+}
+
+.comment-ca-marche {
+    margin-left: -5%;
+    margin-top: 20px;
+}
+
+.selection-1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.deposez-votre-besoin {
+    margin-left: -5%;
+    margin-top: 1%;
+}
+
+.deposez-votre-besoin-2 {
+    margin-left: -5%;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.repondez-a-un-simple-questionnaire {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.11px;
+    line-height: 156.02%;
+    text-align: justify;
+    color: #000000;
+    width: 85%;
+    margin-left: -5%;
+    margin-top: 20px;
+}
+
+.bloc-comment-ca-marche {
+    margin-left: 13%;
+}
+
+.point-questionnaire {
+    position: absolute;
+    margin-top: 49%;
+    margin-left: -7%;
+}
+
+.point-questionnaire-1 {
+    position: absolute;
+    margin-top: 61%;
+    margin-left: -7%;
+    /* margin-top: 20%;
+  left: 57%;
+  width: 2%; */
+}
+
+.courbe-questionnaire-1 {
+    position: absolute;
+    margin-top: 62%;
+    margin-left: -6%;
+    width: 80%;
+    height: 69%;
+    /* margin-top: 20.5%;
+  left: 58%;
+  width: 20%;
+  height: 200px; */
+}
+
+.courbe-questionnaire {
+    position: absolute;
+    margin-left: -4%;
+    margin-top: 52%;
+    width: 100%;
+    height: 80%;
+}
+
+.courbe-rdv-1 {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: -37%;
+    width: 36%;
+    height: 108%;
+    /* margin-top: 19%;
+    left: 21%;
+    width: 268px;
+    height: 207px; */
+}
+
+.point-rdv-1 {
+    position: absolute;
+    margin-top: -2%;
+    margin-left: 35%;
+    /* margin-top: 6%;
+    left: 21%;
+    width: 2%; */
+}
+
+.point-rdv-2 {
+    position: absolute;
+    margin-top: -1%;
+    left: 45%;
+    width: 4%;
+}
+
+.courbe-rdv-2 {
+    position: absolute;
+    margin-top: -4%;
+    margin-left: -32%;
+    width: 30%;
+    height: 106%;
+}
+
+.select {
+    margin-top: 20px;
+}
+
+
+/* Rectangle 1947 */
+
+.rectangle-1947 {
+    padding-bottom: 16px;
+    /*  width: 54%;
+  height: 38%; */
+    margin-top: 7%;
+    /* padding: 16px; */
+    background: #F2F2F7;
+    border: 11px solid #FB5875;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 15px rgba(251, 88, 117, 0.3);
+    border-right-style: none;
+    border-radius: 30px 0px 0px 30px;
+    float: right;
+}
+
+
+/* #2 Clarifiez votre besoin autour d’un café. */
+
+.clarifiez-votre-besoin {
+    margin-right: 2%;
+    text-align: right;
+    /* float: right; */
+    margin-top: 1%;
+    width: 58%;
+}
+
+.prenez-rendez-vous {
+    width: 78%;
+    margin-left: 22%;
+    text-align: right;
+}
+
+.bloc-niveaux-et-modal {
+    margin-right: 7%;
+}
+
+.niveaux-et-modalites {
+    margin-right: 3%;
+    /* margin-left: 38% !important; */
+    text-align: right;
+}
+
+
+/* Rectangle 15 */
+
+.rectangle-15d {
+    position: absolute;
+    border-radius: 100px !important;
+    background: #FFCC00 !important;
+    border-color: #FFCC00 !important;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 83%;
+    line-height: 86%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000 !important;
+    right: 68px;
+    width: 169px;
+}
+
+
+/* Rectangle 15 */
+
+.rectangle-15e {
+    /* padding-left: 5% !important; */
+    /* padding-left: 5% !important; */
+    /* margin-left: -39% !important; */
+    position: absolute;
+    width: 167px;
+    height: 39px;
+    margin-top: 0% !important;
+    background: #FB5875 !important;
+    border-radius: 20px !important;
+    border-color: #FB5875 !important;
+    font-family: Antipasto Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12.42px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E9EAEF !important;
+    margin-left: -5%;
+    margin-top: 20px;
+    letter-spacing: 0.025em;
+}
+
+
+/* Rectangle 15 */
+
+.rectangle-15f {
+    width: 169px;
+    position: absolute;
+    border-radius: 100px !important;
+    background: #FFCC00 !important;
+    border-color: #FFCC00 !important;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 83%;
+    line-height: 86%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000 !important;
+    right: 65px;
+}
+
+.c-est-l-avant {
+    width: 64%;
+    margin-left: 36%;
+    text-align: right;
+}
+
+.il-ne-vous-reste {
+    width: 61%;
+    text-align: center;
+}
+
+
+/* Découvrez nos modalités d’évaluation ! */
+
+.decouvrez-nos-modalites {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    /* margin-left: 8%; */
+    margin-top: 10%;
+    width: 24%;
+}
+
+
+/* Chacun de nos talents sont évalués et validés sur les CINQ verticales ci-dessous; On ne vous présente que des profils se situant entre les niveaux “Juste” et “Excellent”.. */
+
+
+/* 
+ .chacun-de-nos-talents{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 156.02%;
+  text-align: center;
+  color: #000000;
+  width: 34%;
+ } */
+
+
+/* Forme 4 */
+
+.forme-4-agency {
+    position: absolute;
+    /* top: 6676px; */
+    width: 80%;
+    margin-left: -19%;
+    color: #FFCC00;
+    /*    transform: matrix(0.7, 0.72, 0.72, -0.7, 0, 0); */
+}
+
+
+/* GroovyDoodle */
+
+.groovyDoodle {
+    position: absolute;
+    margin-top: -28%;
+    width: 98%;
+    margin-left: -4.12%;
+}
+
+
+/* Forme 5 */
+
+.forme-5-agency {
+    position: absolute;
+    /* top: 6676px; */
+    width: 40%;
+    margin-top: -9%;
+    margin-left: 72%;
+    color: #FFCC00;
+    /* transform: rotate(143.7deg); */
+}
+
+
+/* une solution à chaque situation */
+
+.une-solution-a-chaque-situation {
+    margin-top: -3%;
+}
+
+
+/* Rectangle 1939 */
+
+.rectangle-1939 {
+    position: absolute;
+    width: 1041px;
+    height: 406px;
+    left: 0px;
+    top: 4683px;
+    background: #FFCC00;
+    border-radius: 0px 30px 30px 0px;
+}
+
+
+/* séléction */
+
+
+/* .selection{
+
+  position: absolute;
+  width: 138px;
+  height: 36px;
+  left: 123px;
+  top: 48px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: -0.025em;
+  text-transform: uppercase;
+  
+  color: #FB5875;
+  
+}
+ */
+
+
+/* Recruter un talent chez SAYNA c’est avoir accès à deux talents. Tout au long de leur mission les talents qui travaillent ont le support d’un talent senior derrière eux. Nous vous ferons une sélection sur mesure suite à vos demandes ! */
+
+.recruter-un-talent {
+    width: 72% !important;
+    margin-top: 3%;
+    margin-left: -7%;
+    margin-bottom: 3%;
+}
+
+
+/* Rectangle 1941 */
+
+.rectangle-1941 {
+    width: 54%;
+    height: 38%;
+    margin-top: 3%;
+    background: #F2F2F7;
+    border: 11px solid #FB5875;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 15px rgba(251, 88, 117, 0.3);
+    border-right-style: none;
+    border-radius: 30px 0px 0px 30px;
+    float: right;
+}
+
+
+/* #4 Entretenez vous avec le talent que vous avez choisi pour en savoir plus sur lui ! */
+
+.entretenez-vous {
+    text-align: right;
+    /* float: right; */
+    margin-top: 1%;
+    width: 100%;
+    text-align: right;
+    font-size: 28px;
+}
+
+.offre-sur-mesure {
+    width: 90% !important;
+}
+
+
+/* Chacun de nos talents sont évalués et validés sur les CINQ verticales ci-dessous; On ne vous présente que des profils se situant entre les niveaux “Juste” et “Excellent”.. */
+
+.chacun-de-nos-talents {
+    width: 29%;
+    /* height: 240px; */
+    margin-left: 8%;
+    margin-top: 2%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 156.02%;
+    text-align: center;
+    color: #000000;
+}
+
+
+/* Rectangle 1936 */
+
+.rectangle-1936 {
+    margin-top: 12%;
+    width: 81%;
+    background: #FFCC00;
+    margin-left: 13%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+
+/* offre start-(up) */
+
+.offre-start-up {
+    font-family: Lato;
+    padding-top: 2%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 181%;
+    line-height: 150.02%;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+/* L’offre idéale pour commencer avec nous : recrutement immédiat et sur mesure pour staffer un projet ou une petite équipe tech et gérer sa trésorerie. */
+
+.offre-ideale {
+    width: 75%;
+    /* height: 130%; */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150.02%;
+    /* display: flex; */
+    align-items: center;
+    margin-left: 1%;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: #3D3D3D;
+    padding-bottom: 3%;
+}
+
+
+/* 18% du TJM du talent reversé à SAYNA jusqu’à ce que la formation soit remboursée 15% du TJM de frais de placement 3% du TJM de frais de gestion : internet, local, environnement 64% du TJM reversé intégralement au développeur, celui qui crée la valeur 45 € de TJM à 150 € de TJM selon les profils Tarif dégressif au fil des jours. */
+
+.du-TJM-du-talent-reverse {
+    padding-top: 5%;
+    width: 71%;
+    margin-left: 10%;
+    /* top: 8054px; */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 92%;
+    line-height: 150.02%;
+    /* display: flex; */
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #000000;
+}
+
+.du-TJM-du-talent-reverse li {
+    margin-top: 5%;
+}
+
+ul {
+    list-style: none;
+}
+
+.du-TJM-du-talent-reverse .li-1::before {
+    content: "•";
+    color: #FFCC00;
+    display: inline-block;
+    width: 1em;
+    padding-top: -14%;
+    margin-left: -6%;
+    font-size: 184%;
+}
+
+.du-TJM-du-talent-reverse .li-2::before {
+    content: "•";
+    color: #FB5875;
+    display: inline-block;
+    width: 1em;
+    padding-top: -14%;
+    margin-left: -6%;
+    font-size: 184%;
+}
+
+.tous-les-avantages {
+    padding-top: 0% !important;
+}
+
+
+/* - Freelances formés, vérifiés et qualifiés par nos soins - Matching en quelques heures - Prise de rendez-vous en ligne avec nos experts - Signature électronique - Facturation et paiements simplifiés - Support en ligne */
+
+.freelances-formes {
+    padding-top: 4%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 89%;
+    line-height: 150.02%;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: #898989;
+    padding-bottom: 4%;
+    margin-right: 26px;
+}
+
+.rectangle-1950-1 {
+    margin-top: 3%;
+    background: #F2F2F7;
+    border-radius: 20px;
+    width: 360px !important;
+    height: 293px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.freelances-formes li::before {
+    content: "-";
+}
+
+
+/* Rectangle 1937 */
+
+.rectangle-1954 {
+    width: 100%;
+    margin-top: unset;
+    /* margin-left: 12%; */
+    margin-top: 4%;
+    /* top: 8054px; */
+    background: rgba(242, 242, 242, 0.6);
+    border-radius: 0px 0px 15px 15px;
+}
+
+.rectangle-1954a {
+    padding-top: 4%;
+}
+
+
+/* Rectangle 1937 */
+
+.rectangle-1937 {
+    width: 81%;
+    margin-top: unset;
+    margin-left: 13%;
+    margin-top: -3%;
+    /* top: 8054px; */
+    background: #FFFFFF;
+    border-radius: 0px 0px 15px 15px;
+}
+
+
+/* Rectangle 1938 */
+
+.rectangle-1938 {
+    margin-top: 12%;
+    width: 81%;
+    background: #FFCC00;
+    margin-left: 9%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+
+/* Rectangle 186 */
+
+.rectangle-186 {
+    width: 81%;
+    margin-top: unset;
+    margin-left: 9%;
+    margin-top: -3%;
+    /* top: 8054px; */
+    background: #FFFFFF;
+    border-radius: 0px 0px 15px 15px;
+}
+
+
+/* carousel */
+
+
+/* Ton code devra être fonctionnel, claire, performant, bien écrit et lisible. Tu seras évalué sur 5 niveaux différents : mauvais, pauvre, juste, bon et excellent. */
+
+.ton-code {
+    width: 100%;
+    height: 398px;
+    left: 255px;
+    margin-top: 8px;
+    font-family: Lato;
+    font-style: normal;
+    /* font-weight: 500; */
+    font-size: 19px;
+    /* line-height: 150.02%; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+}
+
+.ul-img {
+    position: absolute;
+}
+
+.ul-slid {
+    margin-top: 29%;
+}
+
+.ul-slid-1 {
+    background: url(../image/Forme\ 5.png);
+    background-repeat: no-repeat;
+    background-size: 72% 142%;
+    background-position: right;
+    background-position: 97% -150px;
+    margin-right: -3%;
+    margin-top: 6%;
+    width: 102%;
+    padding-bottom: 81px;
+    /* background: url(../image/Forme\ 5.png);
+    background-repeat: no-repeat;
+    background-size: 61% 141%;
+    background-position: right;
+    background-position: 98% -117px;
+    margin-right: -3%;
+    margin-top: 7%;
+    width: 102%;
+    padding-bottom: 81px; */
+}
+
+li {
+    list-style: none;
+}
+
+.btn-slid {
+    /* text-align: center !important; */
+    margin-top: 12%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px !important;
+    line-height: 150.02%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    /* background: #FB5875; */
+    background: #FB5875 !important;
+    border-radius: 100px !important;
+    border-color: #FB5875 !important;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 25px;
+    line-height: 150.02%;
+    /* or 38px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.btn-slid-mobil {
+    margin-top: 7%;
+    /* background: #FB5875; */
+    background: #FB5875 !important;
+    border-radius: 100px !important;
+    border-color: #FB5875 !important;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 150.02% !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.rectangle-1950 {
+    margin-top: 45%;
+}
+
+.on-attendra-de-toi {
+    width: 73%;
+    margin-top: 24px;
+}
+
+.il-te-faudra-etre {
+    width: 85%;
+}
+
+.ton-code-devra-etre {
+    width: 73%;
+    margin-top: 28px;
+}
+
+.on-attendra-de-toi-d-etre {
+    width: 87%;
+    margin-top: 35px;
+}
+
+.recruter-n-a-jamais {
+    text-align: center;
+}
+
+footer {
+    margin-top: 109px;
+}
+
+.btn-agency {
+    width: 209px;
+    height: 84px;
+    left: 614.1px;
+    margin-top: 31.64px;
+    background-color: #FFCC00 !important;
+    box-shadow: 0px 0px 20px rgba(255, 204, 0, 0.35);
+    border-radius: 20px !important;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 30px !important;
+    line-height: 24px !important;
+    display: inline-grid !important;
+    align-items: center;
+    text-align: center !important;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: #F2F2F7 !important;
+}
+
+@media (max-width: 1713px) {
+    .rectangle {
+        margin-bottom: 0% !important;
+    }
+    .icon-grp-service {
+        /* margin-bottom: 14%; */
+    }
+}
+
+@media (max-width: 1454px) {
+    .menu {
+        margin-top: 1%;
+    }
+}
+
+@media(max-width: 1442px) {
+    .courbe-questionnaire {
+        margin-top: 67%;
+        margin-left: -7%;
+    }
+    .point-questionnaire {
+        margin-top: 63%;
+        margin-left: -11%;
+    }
+    .point-questionnaire-1 {
+        position: absolute;
+        margin-top: 80%;
+        margin-left: -11%;
+    }
+    .courbe-questionnaire-1 {
+        margin-top: 82%;
+        margin-left: -7%;
+        height: 62%;
+    }
+}
+
+@media(max-width: 1598px) and (min-width:1309px) {
+    .ul-slid-1 {
+        background: url(../image/Forme\ 5.png);
+        background-repeat: no-repeat;
+        background-size: 59% 131%;
+        background-position: right;
+        background-position: 97% -99px;
+        margin-right: -3%;
+        margin-top: 6%;
+        width: 103%;
+        padding-bottom: 81px;
+    }
+}
+
+@media (max-width: 1454px) {
+    .btn-agency {
+        width: 136.06px;
+        height: 58.3px;
+        margin-top: 36px;
+        font-size: 21px !important;
+    }
+}
+
+@media (max-width: 1412px) {
+    .icon-data-eng {
+        margin-top: 63px;
+    }
+}
+
+@media(max-width: 1308px) {
+    .ul-slid-1 {
+        background: url(../image/Forme\ 5.png);
+        background-repeat: no-repeat;
+        background-size: 59% 119%;
+        background-position: right;
+        background-position: 102% -55px;
+        margin-right: -3%;
+        margin-top: -8%;
+        width: 103%;
+        padding-bottom: 81px;
+    }
+}
+
+@media(max-width: 1445px) {
+    .icon-ruby {
+        top: 1% !important;
+    }
+}
+
+@media(max-width: 1798px) and (min-width:1376px) {
+    .courbe-rdv-2 {
+        height: 85%;
+    }
+}
+
+@media(max-width: 1376px) {
+    .courbe-rdv-2 {
+        position: absolute;
+        margin-top: -4%;
+        margin-left: -33%;
+        width: 31%;
+        height: 79%;
+    }
+}
+
+@media(max-width: 1338px) {
+    .apprends-a-aller-chercher {
+        margin-top: 27% !important;
+    }
+}
+
+@media(max-width: 1278px) {
+    .globe-312668-2 {
+        position: absolute;
+        margin-left: 63%;
+        width: 24%;
+        margin-top: 7%;
+    }
+}
+
+.btn-slid-0 {
+    margin-left: 47%;
+}
+
+.btn-slid-1 {
+    margin-left: 21%;
+}
+
+.btn-slid-2 {
+    margin-left: 7%;
+}
+
+.btn-slid-3 {
+    margin-left: 21%;
+}
+
+.btn-slid-4 {
+    margin-left: 49%;
+}
+
+@media(max-width: 1259px) and (min-width:1196px) {
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none !important;
+    }
+    .placons-1259 {
+        display: block !important;
+    }
+    .nous-placons {
+        font-size: 79px;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 115px;
+    }
+    .forme-4-photo {
+        background-size: 319px 600px;
+    }
+    /*  .courbe-rdv-2 {
+    margin-top: 21% !important;
+    width: 21% !important;
+  }
+ */
+    .ul-slid-1 {
+        background-size: 61% 119%;
+        background-position: 100% -27px;
+    }
+    .btn-slid-0 {
+        margin-left: 32%;
+        margin-top: 167px;
+    }
+    .btn-slid-1 {
+        margin-left: 9%;
+    }
+    .btn-slid-2 {
+        margin-left: 0%;
+    }
+    .btn-slid-3 {
+        margin-left: 13%;
+    }
+    .btn-slid-4 {
+        margin-left: 37%;
+    }
+    .courbe-rdv-2 {
+        height: 193px;
+    }
+}
+
+@media (max-width: 1259px) {
+    .rectangle {
+        width: 270px;
+    }
+}
+
+@media (max-width: 1259px) and (min-width:992px) {
+    .pourquoi-l-agency {
+        margin-top: -1%;
+    }
+    .forme-4-a {
+        display: none;
+    }
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none !important;
+    }
+    .placons-1259 {
+        display: block !important;
+    }
+    /* Forme 4 */
+    .forme-4-photo {
+        background: url(../image/Forme\ 4\ \(1\).png);
+        background-repeat: no-repeat;
+        background-size: 342px 600px;
+        margin-top: 12px;
+    }
+    .nous-placons {
+        margin-left: 10%;
+        margin-top: 14%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 85px;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        margin-left: 9.5%;
+        margin-top: -50px;
+        margin-bottom: 25%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 116px;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .forme4-agency {
+        margin-left: -4.9%;
+        margin-top: 7%;
+        bottom: 87.26%;
+        color: #FFCC00;
+        width: 41.1% !important;
+    }
+    .globe-312668-1 {
+        width: 100%;
+        margin-left: 6%;
+        margin-top: 27%;
+    }
+    .des-heros-1 {
+        position: absolute;
+        /* width: 179%;
+   height: 596%; */
+        left: 10%;
+        top: 44%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 125px;
+        line-height: 95.02%;
+        /* display: flex; */
+        align-items: center;
+        letter-spacing: -0.045em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .heros {
+        color: #FFCC00;
+    }
+    /* Les meilleurs talents Africains de demain chez SAYNA. */
+    .meilleurs-talents-africains {
+        position: absolute;
+        left: 7%;
+        /* margin-top: -10%; */
+        /*   top: 102%; */
+        font-family: Antipasto Pro;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 34px;
+        line-height: 43px;
+        letter-spacing: 0.01em;
+        text-transform: uppercase;
+        color: #6E6E6E;
+    }
+}
+
+@media(max-width: 1195px) and (min-width:992px) {
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none;
+    }
+    .placons-1259 {
+        display: block;
+    }
+    .nous-placons {
+        font-size: 66px;
+        margin-bottom: -8px;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 95px;
+    }
+    .forme-4-photo {
+        background-size: 269px 510px;
+    }
+    .meilleurs-talents-africains {
+        font-size: 23px;
+        top: 490px;
+    }
+    .btn-slid {
+        /* text-align: center !important; */
+        margin-top: 8%;
+    }
+    .btn-slid-0 {
+        margin-left: 47%;
+        margin-top: 118px;
+    }
+    .ul-slid-1 {
+        height: 150%;
+        /* margin-left: 21px; */
+        background-position: 126% -7px;
+        background-size: 60% 74%;
+    }
+    .courbe-rdv-2 {
+        height: 65%;
+    }
+}
+
+@media(max-width: 1195px) {
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none;
+    }
+    .placons-1259 {
+        display: block;
+    }
+    /* .courbe-point {
+
+    display: none !important;
+  } */
+}
+
+@media(max-width: 1137px) and (min-width:1103px) {
+    .service-1-1a {
+        margin-left: 29%;
+    }
+}
+
+@media(max-width: 1102px) and (min-width:992px) {
+    .service-1-1a {
+        margin-left: 24%;
+    }
+}
+
+@media(max-width: 992px) and (min-width:576px) {
+    .service-1-3a,
+    .bloc-developpeur-front {
+        margin-left: 192px;
+    }
+}
+
+@media(max-width: 979px) and (min-width:57px) {
+    .service {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media(max-width: 994px) and (min-width:770px) {
+    .forme-5-agency {
+        position: absolute;
+        /* top: 6676px; */
+        width: 40%;
+        margin-top: -9%;
+        margin-left: 89%;
+    }
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none !important;
+    }
+    .placons-1259 {
+        display: block !important;
+    }
+}
+
+@media(max-width: 991px) and (min-width:881px) {
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none;
+    }
+    .placons-1259 {
+        display: block;
+    }
+    .forme-4-photo {
+        background-size: 212px 472px;
+    }
+    .meilleurs-talents-africains {
+        font-size: 23px;
+        margin-top: -50px;
+        margin-left: -28px;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 74px;
+        margin-left: 9.5%;
+        margin-top: -6%;
+        margin-bottom: 25%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .globe-312668-1 {
+        width: 100%;
+        margin-left: 6%;
+        margin-top: 60%;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 74px;
+        margin-left: 9.5%;
+        margin-top: -6%;
+        margin-bottom: 25%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .pourquoi-l-agency {
+        margin-top: -1%;
+    }
+    .forme-4-a {
+        display: none;
+    }
+    /* .globe-312668-2{
+  display: none;
+} */
+    .placons-1259 {
+        display: block;
+    }
+    /* Forme 4 */
+    .forme-4-photo {
+        background: url(../image/Forme\ 4\ \(1\).png);
+        background-repeat: no-repeat;
+        background-size: 215px 486px;
+        margin-top: 12px;
+    }
+    .nous-placons {
+        margin-left: 10%;
+        margin-top: 84px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 51px;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+        margin-bottom: -52px;
+    }
+    .forme4-agency {
+        margin-left: -4.9%;
+        margin-top: 7%;
+        bottom: 87.26%;
+        color: #FFCC00;
+        width: 41.1% !important;
+    }
+    .globe-312668-1 {
+        width: 100%;
+        margin-left: 6%;
+        margin-top: 60%;
+    }
+    .heros {
+        color: #FFCC00;
+    }
+    .ul-slid-1 {
+        background-position: 142% -7px;
+        background-size: 60% 74%;
+        height: 150%;
+    }
+    .btn-slid {
+        /* text-align: center !important; */
+        margin-top: 8%;
+    }
+    .btn-slid-0 {
+        margin-left: 47%;
+        margin-top: 118px;
+    }
+    .une-solution-a-chaque-situation {
+        margin-top: -5%;
+    }
+}
+
+@media (max-width:880px) and (min-width: 771px) {
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none;
+    }
+    .placons-1259 {
+        display: block;
+    }
+    .forme-4-photo {
+        background: url(../image/Forme\ 4\ \(1\).png);
+        background-repeat: no-repeat;
+        margin-top: 12px;
+        background-size: 212px 472px;
+    }
+    .meilleurs-talents-africains {
+        font-size: 23px;
+        margin-top: -50px;
+        margin-left: -28px;
+    }
+    .nous-placons {
+        margin-bottom: -52px;
+        margin-left: 10%;
+        margin-top: 84px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 51px;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .pourquoi-l-agency {
+        margin-top: 4%;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 72px;
+        margin-left: 9.5%;
+        margin-top: -6%;
+        margin-bottom: 25%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .globe-312668-1 {
+        /* position: absolute; */
+        width: 100%;
+        margin-left: 45%;
+        /* margin-right: -28%; */
+        margin-top: 85%;
+    }
+    .menu {
+        margin-top: 2%;
+    }
+    .ul-slid-1 {
+        background-size: 5px 3px;
+        /* background: #123; */
+        height: 150%;
+        width: 50%;
+        margin-left: 110px;
+    }
+    .bloc-bloc {
+        margin-left: -13%;
+    }
+}
+
+.une-solution-a-chaque-situation {
+    margin-top: 13%;
+}
+
+@media(max-width: 770px) and (min-width:573px) {
+    .placons-1259A,
+    .nous-placons-1,
+    .des-heros-2 {
+        display: none !important;
+    }
+    .placons-1259 {
+        display: block !important;
+    }
+    .nous-placons {
+        margin-bottom: -52px;
+        margin-left: 10%;
+        margin-top: 84px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 45px;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 65px;
+        margin-left: 9.5%;
+        margin-top: -6%;
+        margin-bottom: 25%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .globe-312668-1 {
+        /* position: absolute; */
+        width: 100%;
+        margin-left: 45%;
+        /* margin-right: -28%; */
+        margin-top: 85%;
+    }
+    .forme-4-photo {
+        background: url(../image/Forme\ 4\ \(1\).png);
+        background-repeat: no-repeat;
+        margin-top: 12px;
+        background-size: 193px 452px;
+    }
+    .pourquoi-l-agency {
+        margin-top: 0%;
+    }
+}
+
+.bloc-ton-code {
+    display: none !important;
+}
+
+.rectangle-1950-1 {
+    display: none;
+}
+
+@media screen and (max-width: 770px) {
+    .forme-4-agency {
+        display: none;
+    }
+    .rectangle-1950 {
+        display: none;
+    }
+    .ul-slid-1 {
+        background-color: #E5E5E5;
+        ;
+        display: none;
+    }
+    .bloc-ton-code {
+        display: block !important;
+    }
+    .rectangle-1950-1 {
+        display: block;
+    }
+}
+
+@media(max-width: 575px) and (min-width:573px) {
+    .globe-312668-1 {
+        width: 100%;
+        margin-left: 0% !important;
+        margin-top: 0% !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .grace-a-vous-1 {
+        margin-left: 10%;
+        margin-right: 5%;
+    }
+}
+
+@media (max-width:770px) and (min-width:693px) {
+    .meilleurs-talents-africains {
+        left: 61px;
+        top: 423px;
+        font-size: 21px;
+    }
+}
+
+@media screen and (max-width:702px) {
+    .la-transparence {
+        width: 100%;
+    }
+    .loin-des-modeles {
+        width: 97%;
+    }
+    .sayna-place-les-meilleurs {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:770px) {
+    .groovyDoodle {
+        display: none;
+    }
+    /* 
+  .forme-5-agency {
+    display: none;
+  }
+  .meilleurs-talents-africains{
+    display: none;
+  }
+ */
+}
+
+@media(max-width: 692px) and (min-width:573px) {
+    .nous-placons {
+        margin-bottom: -52px;
+        margin-left: 10%;
+        margin-top: 84px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 39px;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 53px;
+        margin-left: 9.5%;
+        margin-top: -6%;
+        margin-bottom: 25%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .forme-4-photo {
+        background: url(../image/Forme\ 4\ \(1\).png);
+        background-repeat: no-repeat;
+        margin-top: 12px;
+        background-size: 160px 437px;
+    }
+    .globe-312668-1 {
+        width: 100%;
+        margin-left: 24%;
+        margin-top: 156px
+    }
+    .meilleurs-talents-africains {
+        font-size: 18px;
+        margin-top: -94px;
+        margin-left: -32px;
+    }
+}
+
+@media(max-width: 584px) and (min-width:573px) {
+    .nous-placons {
+        font-size: 38px;
+    }
+}
+
+@media(max-width: 572px) and (min-width:73px) {
+    .forme-4-a {
+        display: none;
+    }
+    .globe-312668-2 {
+        display: none;
+    }
+    .placons-1259 {
+        display: block !important;
+    }
+    .nous-placons {
+        display: block !important;
+        margin-bottom: -52px;
+        margin-left: 10%;
+        margin-top: 84px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 195%;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    /* nous plaçons des héros. */
+    .des-heros {
+        font-size: 274%;
+        margin-left: 9.5%;
+        margin-top: -6%;
+        margin-bottom: 25%;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 144px;
+        align-items: center;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .forme-4-photo {
+        background: url(../image/Forme\ 4\ \(1\).png);
+        background-repeat: no-repeat;
+        margin-top: 12px;
+        background-size: 134px 437px;
+        ;
+    }
+    .globe-312668-1 {
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 0px
+    }
+    .pourquoi-l-agency {
+        margin-top: 0%;
+    }
+}
+
+@media(max-width: 572px) and (min-width:450px) {
+    .meilleurs-talents-africains {
+        font-size: 18px;
+        margin-top: -107px;
+        margin-left: -32px;
+    }
+}
+
+@media(max-width:450px) {
+    .barre {
+        width: 100%;
+    }
+}
+
+@media(max-width: 449px) and (min-width:45px) {
+    .meilleurs-talents-africains {
+        font-size: 18px;
+        margin-left: -32px;
+    }
+}
+
+@media (max-width:993px) and (min-width:857px) {
+    .forme-5-agency {
+        margin-left: 71%;
+    }
+}
+
+@media (max-width:993px) and (min-width:857px) {
+    .forme-5-agency {
+        margin-left: 71%;
+    }
+}
+
+@media (max-width:769px) and (min-width:577px) {
+    .forme-5-agency {
+        margin-left: 51%;
+    }
+}
+
+@media (max-width:576px) and (min-width:127px) {
+    .forme-5-agency {
+        margin-left: 51%;
+    }
+}
+
+@media (max-width:505px) {
+    .decouvrez-nos-modalites {
+        font-size: 23px;
+    }
+}
+
+@media (max-width:359px) {
+    .rectangle-1949-1 {
+        width: 308px;
+    }
+}
+
+
+/* Rectangle 1949 */
+
+.rectangle-1949 {
+    width: 355px;
+    height: 13px;
+    background: #FFCC00;
+    transform: rotate(-180deg);
+}
+
+@media(max-width: 721px) {
+    .decouvrez-nos-modalites {
+        width: 56%;
+    }
+    .chacun-de-nos-talents {
+        width: 67%;
+    }
+}
+
+@media(width: 1101px) {
+    .forme-5-agency {
+        margin-left: 71%;
+    }
+}
+
+@media(max-width: 385px) {
+    .bloc-rect-19 {
+        margin-left: -4%;
+        width: 100%;
+    }
+}
+
+@media(max-width: 1081px) and (min-width:995px) {
+    .point-questionnaire {
+        margin-top: 70%;
+    }
+    .courbe-questionnaire {
+        margin-top: 73%;
+    }
+    .courbe-questionnaire-1 {
+        margin-top: 122%;
+    }
+    .point-questionnaire-1 {
+        margin-top: 122%;
+    }
+    .courbe-rdv-2 {
+        width: 31%;
+        height: 177px;
+        margin-left: -34%;
+    }
+}
+
+@media(max-width: 994px) and (min-width:842px) {
+    .courbe-rdv-2 {
+        width: 31%;
+        height: 167px;
+    }
+}
+
+@media(max-width: 841px) and (min-width:769px) {
+    .courbe-rdv-2 {
+        margin-top: -1%;
+        margin-left: -35%;
+        width: 31%;
+        height: 138px;
+    }
+}
+
+@media(max-width: 994px) {
+    .point-questionnaire {
+        margin-top: 88%;
+    }
+    .courbe-questionnaire {
+        margin-top: 90%;
+    }
+    .courbe-questionnaire-1 {
+        margin-top: 122%;
+    }
+    .point-questionnaire-1 {
+        margin-top: 122%;
+    }
+}
+
+@media(max-width: 985px) and (min-width: 576px) {
+    .icon-grp-service-1 {
+        top: -7%;
+    }
+}
+
+@media(max-width: 575px) {
+    .bloc-data-engineer {
+        padding-bottom: 36px !important;
+    }
+}
+
+@media(max-width: 768px) {
+    .point-questionnaire {
+        display: none;
+    }
+    .courbe-questionnaire {
+        display: none;
+    }
+    .point-rdv-1,
+    .point-rdv-2 {
+        display: none;
+    }
+    .courbe-rdv-1 {
+        display: none;
+    }
+    .point-questionnaire-1 {
+        display: none;
+    }
+    .courbe-questionnaire-1,
+    .courbe-rdv-2 {
+        display: none;
+    }
+}
+
+
+/* jquery */

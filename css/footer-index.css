@@ -1,0 +1,281 @@
+    @import url('https://rsms.me/inter/inter.css');
+    @import url("https://db.onlinewebfonts.com/c/0033a2fbc0329740fb86c1cfd134cb94?family=Roboto");
+    @import url("https://db.onlinewebfonts.com/c/629a55a7e793da068dc580d184cc0e31?family=Open+Sans");
+    footer {
+        width: auto;
+        background: #000000;
+        border-radius: none;
+    }
+    
+    .top-footer {
+        height: 44px;
+    }
+    
+    .partgauche {
+        position: relative;
+        padding-left: 5% !important;
+    }
+    
+    .new-logo {
+        position: relative;
+        width: 40%;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+    
+    .school,
+    .agency,
+    .factory {
+        position: relative;
+        margin-left: 50px !important;
+    }
+    
+    .asaf label>a {
+        position: relative;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+    
+    .asaf {
+        position: relative;
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16.56px;
+        line-height: 76.56px;
+        display: flex;
+        align-items: center;
+        padding-left: 5%;
+        color: #FFFFFF;
+        margin-bottom: 4%;
+        margin-top: 10px;
+        margin-left: -0.4% !important;
+    }
+    
+    .ligne-horiz {
+        width: 85%;
+        height: 4%;
+        left: 5%;
+        margin-top: -10% !important;
+        position: relative;
+        background: #FFCC00;
+    }
+    
+    hr {
+        height: 1.6px !important;
+        border: none !important;
+        margin: 0px !important;
+    }
+    
+    .privacy,
+    .terms,
+    .cookies {
+        position: relative;
+        margin-left: 20px !important;
+    }
+    
+    .lptc {
+        position: relative;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 156.56px;
+        display: flex;
+        align-items: center;
+        color: #898989;
+        left: 8% !important;
+        width: 92%
+    }
+    
+    .droite {
+        padding-top: 3%;
+    }
+    
+    .recevez>p {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17.52px;
+        line-height: 26.56px;
+        /* margin-left: -28.12px; */
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FEFEFE;
+        /* margin-top: %; */
+        letter-spacing: 0.05em;
+    }
+    
+    .subscribe {
+        margin-top: 4%;
+        margin-left: auto !important;
+        margin-right: auto;
+    }
+    
+    .barre {
+        /* width: 49px; */
+        height: 47px;
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 24px;
+        color: #889988;
+    }
+    
+    .btn-rejoin-footer {
+        background-color: #FFCC00 !important;
+        border-color: #FFCC00 !important;
+        height: 48px;
+        width: 140px;
+        border-radius: 10px !important;
+        margin-left: 13%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold !important;
+        font-size: 14px !important;
+        text-align: center !important;
+        line-height: 35px !important;
+        color: #363636 !important;
+        margin-left: 25px;
+    }
+    
+    @media (max-width: 1163) {
+        .btn-rejoin-footer {
+            margin-top: 26px;
+        }
+    }
+    
+    .join-footer {
+        padding-top: auto;
+        padding-bottom: auto;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14.42px;
+        line-height: all;
+        align-items: center;
+        text-align: center;
+        color: #363636;
+    }
+    
+    .trace1141 {
+        width: 181.5px;
+        text-align: left;
+        font-family: 'Inter', 'sans-serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 16.56px;
+        /* or 171% */
+        display: flex;
+        align-items: center;
+        color: #898989;
+    }
+    
+    .contact02 {
+        width: 164.2px;
+        text-align: center;
+    }
+    
+    .trace1101 {
+        width: 172.5px;
+        text-align: left;
+        font-family: 'Inter', 'sans-serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 24px;
+        /* or 171% */
+        display: flex;
+        align-items: center;
+        color: #898989;
+    }
+    
+    .trace111,
+    .trace110,
+    .trace114 {
+        width: 20px;
+        display: block;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    
+    .trace1111 {
+        width: 172.5px;
+        text-align: left;
+        font-family: 'Inter', 'sans-serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 24px;
+        /* or 171% */
+        display: flex;
+        align-items: center;
+        color: #898989;
+    }
+    
+    .bro {
+        position: relative;
+        top: 16% !important;
+        left: 0%;
+    }
+    
+    .droite {
+        border-left: 0.1px solid #FFCC00;
+        padding-left: 5% !important;
+        /* border-left,line-height: 80%; */
+        padding-right: 5% !important;
+    }
+    
+    .bord-droite {
+        margin-left: 0% !important;
+    }
+    
+    .cliquable {
+        display: flex;
+        justify-content: space-around;
+        margin-left: 0% !important;
+        width: 40%;
+    }
+    
+    .tabl2 {
+        width: 100%;
+        height: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        border: none;
+        border-spacing: 10px;
+        border-collapse: separate;
+    }
+    
+    td {
+        border: none;
+    }
+    
+    .ligne-horiz2 {
+        position: relative;
+        width: 95%;
+        top: 0px;
+        background-color: #FFCC00;
+    }
+    
+    .copyright {
+        position: relative;
+        color: #FFCC00;
+        font-size: 9.66px;
+        text-align: center;
+        float: center;
+        left: 49%;
+    }
+    
+    .vertical-line {
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        top: 223.56px;
+        background: #FFCC00;
+        transform: matrix(0, -1, -1, 0, 0, 0) !important;
+        margin-left: -7% !important;
+    }

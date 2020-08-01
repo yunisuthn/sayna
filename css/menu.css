@@ -1,0 +1,212 @@
+.Groupe-8 {
+    width: 36px;
+    margin-top: 13px;
+    margin-left: -1px !important;
+}
+
+.fleche-connexion {
+    margin-left: 11px;
+}
+
+.btn-connexion {
+    width: 228px;
+    height: 70px;
+    left: 1050.87px;
+    margin-top: 38.64px;
+    margin-left: 15px;
+    background-color: #FB5875 !important;
+    border-radius: 50px !important;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 24px !important;
+    line-height: 24px !important;
+    display: inline-grid !important;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: #E9EAEF !important;
+    /* transform: matrix(1, 0, 0, -1, 0, 0); */
+}
+
+.btn-school {
+    width: 174px;
+    height: 70px;
+    left: 614.1px;
+    margin-top: 38.64px;
+    background-color: #F2F2F7 !important;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 24px !important;
+    line-height: 24px !important;
+    display: inline-grid !important;
+    align-items: center;
+    text-align: center !important;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: #575F6B !important;
+}
+
+.btn-agency {
+    width: 174px;
+    height: 70px;
+    left: 614.1px;
+    margin-top: 38.64px;
+    margin-left: 15px;
+    background-color: #F2F2F7 !important;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 24px !important;
+    line-height: 24px !important;
+    display: inline-grid !important;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: #575F6B !important;
+}
+
+.btn-factory-menu {
+    width: 174px;
+    height: 70px;
+    left: 614.1px;
+    margin-top: 38.64px;
+    margin-left: 15px;
+    background-color: #F2F2F7 !important;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 24px !important;
+    line-height: 24px !important;
+    display: inline-grid !important;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: #575F6B !important;
+}
+
+.btn-dropdonw {
+    width: 72px;
+    height: 70px;
+    left: 1233.72px;
+    margin-top: 38.64px;
+    margin-left: 15px;
+    background: #F2F2F7 !important;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+}
+
+
+/* Fixes dropdown menus placed on the right side */
+
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+
+.dropdown {
+    display: none;
+}
+
+.Groupe-8-1 {
+    width: 29px;
+    margin-top: -2px;
+    margin-left: -1px !important;
+}
+
+@media (max-width: 1286px) and (min-width: 1200px) {
+    .btn-dropdonw {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1454px) {
+    .Groupe-8 {
+        width: 29px;
+        margin-top: 6px;
+        margin-left: -1px !important;
+    }
+    .btn-connexion {
+        width: 179.32px;
+        height: 49px;
+        font-size: 17px !important;
+    }
+    .btn-school {
+        width: 120.06px;
+        height: 48.3px;
+        font-size: 17px !important;
+    }
+    .btn-agency {
+        width: 120.06px;
+        height: 48.3px;
+        font-size: 17px !important;
+    }
+    .btn-factory-menu {
+        width: 120.06px;
+        height: 48.3px;
+        font-size: 17px !important;
+    }
+    .btn-dropdonw {
+        width: 49.68px;
+        height: 48.3px;
+    }
+    .menu {
+        margin-top: -17%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .menu {
+        display: none !important;
+    }
+    .dropdown {
+        display: block;
+        margin-top: 12px;
+        margin-right: 87px;
+    }
+    .dropbtn {
+        background-color: #4CAF50;
+        /* color: white; */
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+    }
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        /* background-color: #f9f9f9; */
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    .dropdown-content a:hover {
+        background-color: #f1f1f1
+    }
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    .dropdown:hover .dropbtn {
+        background-color: #3e8e41;
+    }
+}
